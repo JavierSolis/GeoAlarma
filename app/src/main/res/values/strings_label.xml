@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geo Alarma</string>
+
+    <string name="main.label.subtitle">Alarmas</string>
+</resources>
