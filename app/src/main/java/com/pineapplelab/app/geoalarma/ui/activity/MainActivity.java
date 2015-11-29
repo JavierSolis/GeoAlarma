@@ -1,14 +1,14 @@
-package com.pineapplelab.app.geoalarma;
+package com.pineapplelab.app.geoalarma.ui.activity;
 
 import android.content.Intent;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ListView;
 
 import com.github.fabtransitionactivity.SheetLayout;
+import com.pineapplelab.app.geoalarma.R;
 
 public class MainActivity extends AppCompatActivity
         implements
