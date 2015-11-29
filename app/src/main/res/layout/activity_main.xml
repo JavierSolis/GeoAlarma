@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context=".MainActivity">
+    tools:context=".ui.activity.MainActivity">
 
 
     <TextView
@@ -29,7 +29,6 @@
         android:layout_below="@+id/label_sub_title"
         android:layout_width="match_parent"
         android:layout_height="match_parent"></ListView>
-
 
 
     <android.support.design.widget.FloatingActionButton
